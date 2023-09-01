@@ -179,3 +179,54 @@ main {
   font-size: 16px;
   font-weight: 400;
 }
+/* resume */
+.resume-title {
+  text-align: center;
+  margin: 130px 0 119px 0;
+  color: #181818;
+  font-size: 35px;
+  font-weight: 700;
+}
+.resume-container {
+  display: flex;
+  /* justify-content: space-between; */
+  gap: 71px;
+}
+.sub-title {
+  margin-bottom: 30px;
+}
+.edu-title {
+  color: #474747;
+  font-size: 25px;
+  font-weight: 700;
+}
+.versity-name {
+  color: #757575;
+  font-size: 20px;
+  font-weight: 600;
+  margin: 10px 0 20px 0;
+}
+.versity-desc {
+  color: #757575;
+  font-size: 16px;
+  font-weight: 400;
+}
+hr{
+  margin: 30px 0 30px 0;
+}
+.Exp-title {
+  color: #474747;
+  font-size: 25px;
+  font-weight: 700;
+}
+.Exp-time {
+  color: #757575;
+  font-size: 20px;
+  font-weight: 600;
+  margin: 10px 0 20px 0;
+}
+.Exp-desc {
+  color: #757575;
+  font-size: 16px;
+  font-weight: 400;
+}
