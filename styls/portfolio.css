@@ -40,8 +40,9 @@ nav li {
 }
 .banner {
   display: flex;
+  justify-content: space-between;
   margin-left: 230px;
-  align-items: center;
+  align-items: center;margin-right: 50px;
 }
 
 .banner-title {
@@ -59,6 +60,7 @@ nav li {
   font-size: 18px;
   font-weight: 400;
   color: #757575;
+  width: 585px;
 }
 .banner image {
   margin-right: 38px;
